@@ -1,2 +1,13 @@
-
-/* Your CSS Code here. */
+#button-2{
+	border:1px solid black;
+}
+#button-5{
+	display:block;
+}
+#button-6{
+	background:aqua;
+	border:none;
+}
+#button-8{
+	text-decoration:underline;
+}
