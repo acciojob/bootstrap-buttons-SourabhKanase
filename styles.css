@@ -4,6 +4,13 @@
 #button-5{
 	display:block;
 }
+#button-3{
+	padding:7px;
+}
+#button-5{
+	display:block;
+	width:100%;
+}
 #button-6{
 	background:aqua;
 	border:none;
